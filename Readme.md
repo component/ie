@@ -12,7 +12,8 @@
 ## Example
 
 ```js
-ie() // 9
+var ie = require('ie');
+ie // 9
 ```
 
 ## API
