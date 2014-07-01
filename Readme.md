@@ -32,6 +32,10 @@ Has been tested on:
   - ie10
   - ie11
 
+## Credits
+
+Original source from: https://gist.github.com/padolsey/527683#comment-786682.
+
 ## License
 
   The MIT License (MIT)
