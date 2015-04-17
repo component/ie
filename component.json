@@ -2,7 +2,7 @@
   "name": "ie",
   "repo": "component/ie",
   "description": "get the version of IE or return undefined",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [],
   "dependencies": {},
   "development": {},

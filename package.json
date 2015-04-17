@@ -1,6 +1,6 @@
 {
   "name": "component-ie",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "get the version of IE or return undefined",
   "main": "index.js",
   "scripts": {
