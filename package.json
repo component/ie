@@ -1,0 +1,22 @@
+{
+  "name": "component-ie",
+  "version": "0.0.1",
+  "description": "get the version of IE or return undefined",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/ie.git"
+  },
+  "keywords": [
+    "ie"
+  ],
+  "author": "Matthew Mueller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/component/ie/issues"
+  },
+  "homepage": "https://github.com/component/ie"
+}
